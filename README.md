@@ -6,7 +6,7 @@
 
 1. Клонируйте проект с github:
 
-**git clone [url https://github.com/URL](https://github.com/Julia227/IIS.git)**
+**git clone https://github.com/Julia227/iis**
 
 2. Создайте виртуальное окружение
 
