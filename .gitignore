@@ -2,3 +2,4 @@
 *.pkl
 .venv*
 *.__pycashe__
+*.pyc
